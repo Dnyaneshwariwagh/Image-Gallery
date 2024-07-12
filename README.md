@@ -10,9 +10,6 @@ This is a simple image gallery built with React that displays images in a three-
 - Hover effects on images
 - Responsive adjustments for different screen sizes
 
-## Demo
-
-[Link to your deployed site]
 
 ## Screenshots
 
