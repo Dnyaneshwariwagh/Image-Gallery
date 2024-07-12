@@ -26,4 +26,4 @@ This is a simple image gallery built with React that displays images in a three-
 
 
 ## Acknowledgements
-Icons by Material-UI
+  -Icons by Material-UI
