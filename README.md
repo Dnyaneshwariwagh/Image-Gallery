@@ -18,11 +18,11 @@ This is a simple image gallery built with React that displays images in a three-
 
 ## usage
 
-Open the gallery and click on any image to view it in a larger modal.
+  -Open the gallery and click on any image to view it in a larger modal.
 
-Use the next (❯) and previous (❮) buttons in the modal to navigate between images.
+  -Use the next (❯) and previous (❮) buttons in the modal to navigate between images.
 
-Click on the close icon (✖) or outside the modal to close the enlarged view.
+  -Click on the close icon (✖) or outside the modal to close the enlarged view.
 
 
 ## Acknowledgements
