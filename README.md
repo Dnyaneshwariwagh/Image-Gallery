@@ -28,4 +28,5 @@ This is a simple image gallery built with React that displays images in a three-
 
 ![Gallery Screenshot](path/to/screenshot.jpg)
 
+https://github.com/user-attachments/assets/b84c9e0c-6e3c-46da-aa78-12d89432cde7
 
