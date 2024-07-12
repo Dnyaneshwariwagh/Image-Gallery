@@ -19,8 +19,8 @@ This is a simple image gallery built with React that displays images in a three-
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/Dnyaneshwariwagh/Image-Gallery.git
+    cd Image-Gallery
     ```
 
 2. Install dependencies:
