@@ -11,11 +11,6 @@ This is a simple image gallery built with React that displays images in a three-
 - Responsive adjustments for different screen sizes
 
 
-## Screenshots
-
-![Gallery Screenshot](path/to/screenshot.jpg)
-
-
 ## usage
 
   -Open the gallery and click on any image to view it in a larger modal.
@@ -27,3 +22,10 @@ This is a simple image gallery built with React that displays images in a three-
 
 ## Acknowledgements
   -Icons by Material-UI
+
+  
+## Screenshots
+
+![Gallery Screenshot](path/to/screenshot.jpg)
+
+
